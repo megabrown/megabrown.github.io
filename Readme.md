@@ -48,20 +48,16 @@ Cyclops (키클롭스)
         - [Golden Child](https://s3.ap-northeast-2.amazonaws.com/resource.sming.com/production/static/event/202/index.html?access=sneak)
     - [Artist Week Vote 1st Week Winner](https://s3.ap-northeast-2.amazonaws.com/resource.sming.com/production/static/event/235/index.html)
     - Aritst Week Vote
-        - ![1](/images/1-1.jpg){:height="320px" width="568px"}
-        - ![2](/images/1-2.jpg){:height="320px" width="568px"}
-        - ![3](/images/1-3.jpg){:height="320px" width="568px"}
-        - ![4](/images/1-4.jpg){:height="320px" width="568px"}
-        - ![5](/images/1-5.jpg){:height="320px" width="568px"}
-        - ![6](/images/1-6.jpg){:height="320px" width="568px"}
+        - ![1](/images/1-1.jpg){:height="568px" width="320px"} ![2](/images/1-2.jpg){:height="568px" width="320px"}
+        - ![3](/images/1-3.jpg){:height="568px" width="320px"} ![4](/images/1-4.jpg){:height="568px" width="320px"}
+        - ![5](/images/1-5.jpg){:height="568px" width="320px"} ![6](/images/1-6.jpg){:height="568px" width="320px"}
     - Get the Prize
-        - ![1](/images/2-1.jpg){:height="320px" width="568px"}
-        - ![2](/images/2-2.jpg){:height="320px" width="568px"}
+        - ![1](/images/2-1.jpg){:height="568px" width="320px"} ![2](/images/2-2.jpg){:height="568px" width="320px"}
 
 4. Sming 앱 내 웹뷰 및 팝업 페이지 개발
 + 2018.02 - 현재
 + 일일 로그인 팝업이나 방송 및 앱 내 다양한 기능들에서 보여주는 상세 설명 팝업을 요구 사항에 맞게 개발합니다
-    - ![일일 로그인](/images/3-1.jpg){:height="320px" width="568px"}
+    - ![일일 로그인](/images/3-1.jpg){:height="568px" width="320px"}
 
 * 사용 기술: HTML5, CSS3, NodeJS, ReactJS
 
